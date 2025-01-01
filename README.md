@@ -11,6 +11,9 @@
 ***BATCH DURATION*** DECEMBER 25TH,2024 TO JANUARY 25TH,2025
 *** MENTOR NAME*** NEELA SANTOSH KUMAR
 
+*** OUTPUT OF THE TASK ***
+![Screenshot (11)](https://github.com/user-attachments/assets/7de46737-df28-41a6-a2cf-23b37bee264a)
+
 #DESCRIPTION 
 1.Get the API Key from OpenWeatherMap:
 Sign up on OpenWeatherMap at OpenWeatherMap API.
@@ -71,7 +74,7 @@ The process of connecting the webpage with the OpenWeatherMap API, allowing the 
 getWeather() function:
 
 A JavaScript function that gets called when the user clicks the "Get Weather" button. This function makes a request to the OpenWeatherMap API and displays the fetched weather data on the page.
-Request URL:
+
 
 The URL used in the API call that includes parameters like the city name and API key. The URL specifies the data to be fetched from the OpenWeatherMap API.
 'YOUR_API_KEY':
